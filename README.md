@@ -1,4 +1,5 @@
 # hx-cli 脚手架中支持配置的 Vue 模板
+根目录下的ask.js为使用cli创建项目时支持的配置项
 
 ## Project setup
 
